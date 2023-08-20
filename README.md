@@ -7,7 +7,9 @@ Here's to Happy Coding!
 Full Database of city state country available in JSON, SQL, XML, YAML & CSV format. All Countries, States & Cities are Covered & Populated with Different Combinations & Versions.  
 https://github.com/dr5hn/countries-states-cities-database
 
-2) Eloquent Sluggable
-   
-Easy creation of slugs for your Eloquent models in Laravel.  
+2) Eloquent Sluggable   
+Easy creation of slugs for your Eloquent models in Laravel.   
 https://github.com/cviebrock/eloquent-sluggable
+
+  
+
