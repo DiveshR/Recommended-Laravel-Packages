@@ -11,5 +11,9 @@ https://github.com/dr5hn/countries-states-cities-database
 Easy creation of slugs for your Eloquent models in Laravel.   
 https://github.com/cviebrock/eloquent-sluggable
 
+# 3) Laravel Excel Import/Export   
+Supercharged Excel exports and imports in Laravel.   
+https://github.com/SpartnerNL/Laravel-Excel
+
   
 
