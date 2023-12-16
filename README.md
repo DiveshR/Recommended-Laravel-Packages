@@ -15,5 +15,12 @@ https://github.com/cviebrock/eloquent-sluggable
 Supercharged Excel exports and imports in Laravel.   
 https://github.com/SpartnerNL/Laravel-Excel
 
+# 3) Laravel-permission from spatie  
+This package allows you to manage user permissions and roles in a database.  
+https://github.com/spatie/laravel-permission
+
+For More Spatie Packages : 
+https://spatie.be/
+
   
 
