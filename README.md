@@ -15,12 +15,17 @@ https://github.com/cviebrock/eloquent-sluggable
 Supercharged Excel exports and imports in Laravel.   
 https://github.com/SpartnerNL/Laravel-Excel
 
-# 3) Laravel-permission from spatie  
+# 4) Laravel-permission from spatie  
 This package allows you to manage user permissions and roles in a database.  
 https://github.com/spatie/laravel-permission
 
 For More Spatie Packages : 
 https://spatie.be/
+
+# 5) Geocode addresses to coordinates 
+This package can convert any address to GPS coordinates using Google's geocoding service.  
+https://github.com/spatie/geocoder
+
 
   
 
