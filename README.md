@@ -29,6 +29,7 @@ https://github.com/spatie/geocoder
 # 6) Scribe 
 This package generate API documentation for humans from your Laravel codebase.
 [https://github.com/spatie/geocoder](https://github.com/knuckleswtf/scribe/)https://github.com/knuckleswtf/scribe/
+
 [https://spatie.be/](https://scribe.knuckles.wtf/)https://scribe.knuckles.wtf/
 
 
