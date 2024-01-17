@@ -31,6 +31,11 @@ This package generate API documentation for humans from your Laravel codebase.
 [https://github.com/spatie/geocoder](https://github.com/knuckleswtf/scribe/)https://github.com/knuckleswtf/scribe/  
 [https://spatie.be/](https://scribe.knuckles.wtf/)https://scribe.knuckles.wtf/
 
+# 6) Laravel Migrations Generator 
+Generate Laravel Migrations from an existing database, including indexes and foreign keys!
+[https://github.com/kitloong/laravel-migrations-generator)https://github.com/kitloong/laravel-migrations-generator  
+
+
 
   
 
