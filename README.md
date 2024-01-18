@@ -31,12 +31,12 @@ This package generate API documentation for humans from your Laravel codebase.
 [https://github.com/spatie/geocoder](https://github.com/knuckleswtf/scribe/)https://github.com/knuckleswtf/scribe/  
 [https://spatie.be/](https://scribe.knuckles.wtf/)https://scribe.knuckles.wtf/
 
-# 7) Laravel Migrations Generator 
-Generate Laravel Migrations from an existing database, including indexes and foreign keys!
+# 7) Laravel Migrations Generator    
+Generate Laravel Migrations from an existing database, including indexes and foreign keys!   
 https://github.com/kitloong/laravel-migrations-generator  
 
 # 8) Create PDFs in Laravel apps  
-This package provides a simple way to create PDFs in Laravel apps.
+This package provides a simple way to create PDFs in Laravel apps.    
 https://github.com/spatie/laravel-pdf 
 
 
