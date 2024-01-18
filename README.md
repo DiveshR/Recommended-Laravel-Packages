@@ -33,11 +33,11 @@ This package generate API documentation for humans from your Laravel codebase.
 
 # 7) Laravel Migrations Generator 
 Generate Laravel Migrations from an existing database, including indexes and foreign keys!
-[https://github.com/kitloong/laravel-migrations-generator)https://github.com/kitloong/laravel-migrations-generator  
+https://github.com/kitloong/laravel-migrations-generator  
 
 # 8) Create PDFs in Laravel apps 
-This package provides a simple way to create PDFs in Laravel apps. 
-[https://github.com/spatie/laravel-pdf)https://github.com/spatie/laravel-pdf  
+This package provides a simple way to create PDFs in Laravel apps.
+https://github.com/spatie/laravel-pdf 
 
 
 
