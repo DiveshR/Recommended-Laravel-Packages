@@ -44,7 +44,7 @@ This inverse version of HasManyThrough allows BelongsToThrough relationships wit
 https://github.com/staudenmeir/belongs-to-through 
 
 # 10) Eloquent HasManyDeep Package
-Laravel Eloquent HasManyThrough relationships with unlimited levels
+Laravel Eloquent HasManyThrough relationships with unlimited levels.  
 https://github.com/staudenmeir/eloquent-has-many-deep
 
 
