@@ -39,6 +39,10 @@ https://github.com/kitloong/laravel-migrations-generator
 This package provides a simple way to create PDFs in Laravel apps.    
 https://github.com/spatie/laravel-pdf 
 
+# 9) BelongsToThrough  
+This inverse version of HasManyThrough allows BelongsToThrough relationships with unlimited intermediate models.  
+https://github.com/staudenmeir/belongs-to-through 
+
 
 
   
