@@ -47,6 +47,10 @@ https://github.com/staudenmeir/belongs-to-through
 Laravel Eloquent HasManyThrough relationships with unlimited levels.  
 https://github.com/staudenmeir/eloquent-has-many-deep
 
+# 11) Laravel-data
+Powerful data objects for Laravel 
+https://spatie.be/docs/laravel-data/v4/introduction
+
 
 
   
