@@ -51,6 +51,10 @@ https://github.com/staudenmeir/eloquent-has-many-deep
 Powerful data objects for Laravel.  
 https://spatie.be/docs/laravel-data/v4/introduction
 
+# 12) Typescript-transformer
+Convert PHP types to TypeScript.     
+https://spatie.be/docs/typescript-transformer/v2/introduction
+
 
 
   
