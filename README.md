@@ -48,7 +48,7 @@ Laravel Eloquent HasManyThrough relationships with unlimited levels.
 https://github.com/staudenmeir/eloquent-has-many-deep
 
 # 11) Laravel-data
-Powerful data objects for Laravel 
+Powerful data objects for Laravel.  
 https://spatie.be/docs/laravel-data/v4/introduction
 
 
