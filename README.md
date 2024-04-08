@@ -56,6 +56,11 @@ Convert PHP types to TypeScript.
 https://spatie.be/docs/typescript-transformer/v2/introduction
 
 
+# 13) laravel-cascade-soft-deletes  
+Cascading soft deletes for the Laravel PHP Framework.       
+https://github.com/michaeldyrynda/laravel-cascade-soft-deletes
+
+
 
   
 
