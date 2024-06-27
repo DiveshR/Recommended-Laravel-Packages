@@ -61,6 +61,11 @@ Cascading soft deletes for the Laravel PHP Framework.
 https://github.com/michaeldyrynda/laravel-cascade-soft-deletes
 
 
+# 14) laravel-login-link 
+Using login links in a Laravel app      
+https://github.com/spatie/laravel-login-link
+
+
 
   
 
