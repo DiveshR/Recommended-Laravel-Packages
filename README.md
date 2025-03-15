@@ -72,7 +72,7 @@ https://github.com/barryvdh/laravel-ide-helper
 
 
 # 16) Debugbar for Laravel 
-Displays a debug bar in the browser with information from php. No more var_dump() in your code!
+Displays a debug bar in the browser with information from php. No more var_dump() in your code! 
 https://github.com/barryvdh/laravel-debugbar
 
 
