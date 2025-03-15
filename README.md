@@ -81,5 +81,10 @@ The Laravel N+1 query detector helps you to increase your application's performa
 https://github.com/beyondcode/laravel-query-detector
 
 
+# 18) Laravel Backup 
+A modern backup solution for Laravel apps
+[https://github.com/beyondcode/laravel-query-detector](https://github.com/spatie/laravel-backup)
+
+
   
 
