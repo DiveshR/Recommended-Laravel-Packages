@@ -66,6 +66,20 @@ Using login links in a Laravel app
 https://github.com/spatie/laravel-login-link
 
 
+# 15) IDE Helper Generator for Laravel 
+Complete PHPDocs, directly from the source      
+https://github.com/barryvdh/laravel-ide-helper
+
+
+# 16) Debugbar for Laravel 
+Displays a debug bar in the browser with information from php. No more var_dump() in your code!
+https://github.com/barryvdh/laravel-debugbar
+
+
+# 17) Laravel N+1 Query Detector 
+The Laravel N+1 query detector helps you to increase your application's performance by reducing the number of queries it executes.
+https://github.com/beyondcode/laravel-query-detector
+
 
   
 
