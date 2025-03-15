@@ -82,7 +82,7 @@ https://github.com/beyondcode/laravel-query-detector
 
 
 # 18) Laravel Backup 
-A modern backup solution for Laravel apps
+A modern backup solution for Laravel apps    
 [https://github.com/beyondcode/laravel-query-detector](https://github.com/spatie/laravel-backup)
 
 
